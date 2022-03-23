@@ -1,12 +1,11 @@
 # WealthSimple Desktop
 
 ## Index:
-- [WealthSimple Desktop](#wealthsimple-desktop)
-  - [Index:](#index)
-  - [Technology](#technology)
-  - [Usage](#usage)
-  - [Features](#features)
-  - [Custom Features](#custom-features)
+- [Index:](#index)
+- [Technology](#technology)
+- [Usage](#usage)
+- [Features](#features)
+- [Custom Features](#custom-features)
 
 --- 
 
